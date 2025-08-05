@@ -125,8 +125,7 @@ Run the table creation scripts from create_tables.sql
 
 Load CSVs into corresponding tables using COPY or psql commands
 
-# Author
-Padmavathi Moorthy
-
 Execute stored procedures, triggers, and functions using the .sql files provided
 
+# Author
+Padmavathi Moorthy
