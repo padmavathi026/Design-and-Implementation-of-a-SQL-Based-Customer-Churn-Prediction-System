@@ -1,6 +1,8 @@
 # Design and Implementation of a SQL-Based Customer Churn Prediction System using Postgresql
 
 SQL-Based Customer Churn Prediction System
+
+
 📌 Project Overview
 This project presents a PostgreSQL-based customer churn prediction platform designed to support data analysis and predictive modeling in the retail banking domain. The system processes and organizes customer data into a normalized relational schema, supports SQL-driven analytics, and integrates with BI tools for visualization and reporting.
 
